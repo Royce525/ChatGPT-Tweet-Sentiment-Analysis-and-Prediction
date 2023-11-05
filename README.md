@@ -45,7 +45,6 @@ the sentiment of new tweets in real time. The ultimate goal of this project is t
 powerful tool for businesses and individuals to understand the global opinion on the impact of
 the OpenAI tool 'ChatGPT.'
 The objectives of this study are:
-● Scrapping tweets related to the OpenAI tool “ChatGPT” from Twitter using the Python
-library snscrape.
-● To perform a sentiment analysis on the most recent tweets with the hashtag ChatGPT.
-● To build a model that can predict the sentiments of ChatGPT tweets.
+* Scrapping tweets related to the OpenAI tool “ChatGPT” from Twitter using the Python library snscrape.
+* To perform a sentiment analysis on the most recent tweets with the hashtag ChatGPT.
+* To build a model that can predict the sentiments of ChatGPT tweets.
